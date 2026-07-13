@@ -1,0 +1,9 @@
+numpy>=2.0
+networkx
+matplotlib
+pandas
+fastapi
+uvicorn
+pydantic
+httpx
+pytest
